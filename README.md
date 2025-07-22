@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Aarav Khanduja](https://www.linkedin.com/in/aaravkhanduja)
+# 👋 Hey, I'm [Aarav Khanduja](https://www.linkedin.com/in/aarav-khanduja-0467191b0/)
 
 Aspiring **Software Engineering Intern** and full-stack developer studying Business & Technology Management at NYU Tandon.
 
@@ -27,4 +27,4 @@ Currently working on open-source AI projects and applying for **Summer 2026 inte
 
 ## 📫 Contact
 
-[LinkedIn](https://linkedin.com/in/aaravkhanduja) · ask9310@nyu.edu
+[LinkedIn](https://www.linkedin.com/in/aarav-khanduja-0467191b0/) · ask9310@nyu.edu
