@@ -1,8 +1,12 @@
 # 👋 Hey, I'm [Aarav Khanduja](https://www.linkedin.com/in/aaravkhanduja)
 
-Full-stack developer and aspiring **SWE intern** at NYU Tandon. I’m passionate about building real-world tools powered by AI and clean engineering.
+Aspiring **Software Engineering Intern** and full-stack developer studying Business & Technology Management at NYU Tandon.
 
-Previously co-founded **ProperlyAI**, a property insight summary tool for realtors. Currently working on open-source AI projects and applying for **Summer 2026 internships**.
+I'm passionate about building tools that leverage AI and deliver real-world value.
+
+Previously co-founded **ProperlyAI**, a property insight summary tool for realtors.
+
+Currently working on open-source AI projects and applying for **Summer 2026 internships**.
 
 ---
 
@@ -15,9 +19,9 @@ Previously co-founded **ProperlyAI**, a property insight summary tool for realto
 
 ## 📌 Past Work
 
-- **ProperlyAI** – AI summaries for realtors using Django + GPT-4  
+- **ProperlyAI** – Built AI summaries for realtors using Django + GPT-4  
 - **Penseum** – Tracked 10K+ user journeys, led UCSD partnership  
-- **UCSD Student Network** – Built rewards system, scaled AWS infra
+- **UCSD Student Network** – Built rewards system and scaled AWS infra
 
 ---
 
