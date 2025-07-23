@@ -12,8 +12,8 @@ Currently working on open-source AI projects and applying for **Summer 2026 inte
 
 ## 🚧 Building
 
-- **ContractGPT** – Turns vague freelance asks into structured contracts (Next.js, GPT-4)
-- **ListingIQ** – AI analyzer for real estate listings (Next.js + FastAPI)
+- [**ContractGPT**](https://github.com/AaravKhanduja/ContractGPT) – Turns vague freelance asks into structured contracts (Next.js, GPT-4)  
+- [**ListingIQ**](https://github.com/AaravKhanduja/ListingIQ) – AI analyzer for real estate listings (Next.js + FastAPI)
 
 ---
 
