@@ -1,6 +1,6 @@
 # 👋 Hey, I'm [Aarav Khanduja](https://www.linkedin.com/in/aarav-khanduja-0467191b0/)
 
-Aspiring **Software Engineering Intern** and full-stack developer studying Business & Technology Management at NYU Tandon.
+Aspiring **Software Engineering Intern** and full-stack developer studying Business & Technology Management at NYU.
 
 I'm passionate about building tools that leverage AI and deliver real-world value.
 
