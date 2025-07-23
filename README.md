@@ -2,7 +2,7 @@
 
 Aspiring **Software Engineering Intern** and full-stack developer studying Business & Technology Management at NYU.
 
-I'm passionate about building tools that leverage AI and deliver real-world value.
+Passionate about building tools that leverage AI and deliver real-world value.
 
 Previously co-founded **ProperlyAI**, a property insight summary tool for realtors.
 
