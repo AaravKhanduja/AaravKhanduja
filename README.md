@@ -19,7 +19,7 @@ Currently working on open-source AI projects and applying for **Summer 2026 inte
 
 ## 📌 Past Work
 
-- **ProperlyAI** – Built AI summaries for realtors using Django + GPT-4  
+- **ProperlyAI** – Built AI summaries for realtors using TypeScript (React) + Python (Django) + GPT-4  
 - **Penseum** – Tracked user journeys and improved engagement.
 - **UCSD Student Network** – Built rewards system and scaled AWS infra
 
