@@ -6,7 +6,7 @@ Passionate about building tools that leverage AI and deliver real-world value.
 
 Previously co-founded **ProperlyAI**, a property insight summary tool for realtors.
 
-Currently working on open-source AI projects and applying for **Summer 2026 internships**.
+Currently working on open-source AI projects.**.
 
 ---
 
