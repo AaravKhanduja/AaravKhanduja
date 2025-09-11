@@ -25,4 +25,4 @@ Currently working on open-source AI projects.
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/aarav-khanduja-0467191b0/) · [Personal Website](https://aaravkhanduja.com) hi@aaravkhanduja.com
+[LinkedIn](https://www.linkedin.com/in/aarav-khanduja-0467191b0/) · [Personal Website](https://aaravkhanduja.com) · hi@aaravkhanduja.com
