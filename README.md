@@ -1,6 +1,6 @@
 # 👋 Hey, I'm [Aarav Khanduja](https://www.linkedin.com/in/aarav-khanduja-0467191b0/)
 
-Aspiring **Product Management & SWE Intern** studying Business & Technology Management at NYU.
+Aspiring **Product Management Intern** studying Business & Technology Management at NYU.
 
 Passionate about building tools that leverage AI and deliver real-world value.
 
