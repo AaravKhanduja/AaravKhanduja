@@ -25,6 +25,4 @@ Currently working on open-source AI projects.
 
 ---
 
-## 📫 Contact
-
-[LinkedIn](https://www.linkedin.com/in/aarav-khanduja-0467191b0/) · ask9310@nyu.edu
+[LinkedIn](https://www.linkedin.com/in/aarav-khanduja-0467191b0/) · [Personal Website](https://aaravkhanduja.com) hi@aaravkhanduja.com
