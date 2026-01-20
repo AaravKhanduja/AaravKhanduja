@@ -1,28 +1,41 @@
-# 👋 Hey, I'm [Aarav Khanduja](https://www.linkedin.com/in/aarav-khanduja-0467191b0/)
+# 👋 Hey, I’m Aarav Khanduja
 
-Aspiring **Product Manager** studying Business & Technology Management at NYU.
+Product-minded builder studying **Business & Technology Management at NYU**.  
+I work at the intersection of **product, engineering, and applied AI**, with a focus on shipping real tools end-to-end.
 
-Passionate about building tools that leverage AI and deliver real-world value.
-
-Previously co-founded **ProperlyAI**, a property insight summary tool for realtors.
-
-Currently working on open-source AI projects.
+Previously co-founded a startup; now building and open-sourcing AI products while exploring developer tooling, workflows, and applied ML.
 
 ---
 
-## 🚧 Building
+## 🚀 Shipped Projects
 
-- [**ContractGPT**](https://github.com/AaravKhanduja/ContractGPT) – Turns vague freelance asks into structured contracts (Next.js, GPT-4)  
-- [**ListingIQ**](https://github.com/AaravKhanduja/ListingIQ) – AI analyzer for real estate listings (Next.js + FastAPI)
+- **[ContractGPT](https://github.com/AaravKhanduja/ContractGPT)**  
+  Turns vague freelance asks into structured, reviewable contracts.  
+  *Next.js · GPT-4 · Open-source · Live*
 
----
-
-## 📌 Past Work
-
-- **ProperlyAI** – Built AI summaries for realtors using TypeScript (React) + Python (Django) + GPT-4  
-- **Penseum** – Tracked user journeys and improved engagement.
-- **UCSD Student Network** – Built rewards system and scaled AWS infra
+- **[ListingIQ](https://github.com/AaravKhanduja/ListingIQ)**  
+  AI analyzer for real-estate listings that surfaces risks, insights, and follow-up questions.  
+  *Next.js · FastAPI · GPT-4 · Open-source · Live*
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/aarav-khanduja-0467191b0/) · [Personal Website](https://aaravkhanduja.com) · hi@aaravkhanduja.com
+## 🧠 Experience
+
+- **ProperlyAI (Co-founder)**  
+  Built AI-powered summaries for realtors using  
+  *TypeScript (React) · Python (Django) · GPT-4*  
+  Led product direction, engineering, and early customer discovery.
+
+- **Penseum (Product / Analytics)**  
+  Tracked user journeys, analyzed activation and engagement funnels, and supported product decisions with data.
+
+- **UCSD Student Entrepreneur Network**  
+  Built a rewards system, scaled AWS infrastructure, and supported community growth initiatives.
+
+---
+
+## 🔗 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/aarav-khanduja-0467191b0/)
+- [Website](https://aaravkhanduja.com)
+- 📫 hi@aaravkhanduja.com
