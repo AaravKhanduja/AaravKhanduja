@@ -1,11 +1,11 @@
 # 👋 Hey, I’m Aarav Khanduja
 
-Product-minded builder studying **Business & Technology Management at NYU**.  
-I work at the intersection of **product, engineering, and applied AI**, with a focus on shipping end-to-end tools while reasoning carefully about real-world workflows and failure modes.
+Product-minded builder studying Business & Technology Management at NYU.
+I like working where product, engineering, and applied AI meet, and I care a lot about shipping tools that hold up in real user workflows.
 
-Previously co-founded a startup; currently building and open-sourcing AI products, with a growing interest in developer tooling, human-in-the-loop systems, and applied ML.
+I previously co-founded a startup and now build and open-source AI products, with a growing interest in developer tooling and human-in-the-loop systems.
 
-I’m also a **Product Management Intern at Phia**, working on product strategy, user feedback loops, and applied AI features in production.
+Currently a Product Management Intern at Phia, working on product strategy, feedback loops, and applied AI features in production.
 
 ---
 
