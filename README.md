@@ -1,6 +1,6 @@
 # Hey, I'm Aarav
 
-PM Intern at **Phia** (Series A backed by Notable Capital, Khosla Ventures & Kleiner Perkins) — previously co-founded a real estate AI startup and built products across edtech, developer tooling, and consumer.
+PM Intern at **Phia** (Series A) — previously co-founded a real estate AI startup and built products across edtech, developer tooling, and consumer.
 
 I like building, talking to users, and shipping fast. Most of my work ends up somewhere between product design and engineering.
 
