@@ -1,46 +1,45 @@
-# 👋 Hey, I’m Aarav Khanduja
+# Hey, I'm Aarav
 
-Product-minded builder studying Business & Technology Management at NYU.
-I like working where product, engineering, and applied AI meet, and I care a lot about shipping tools that hold up in real user workflows.
+PM Intern at **Phia** (Series A backed by Notable Capital, Khosla Ventures & Kleiner Perkins) — previously co-founded a real estate AI startup and built products across edtech, developer tooling, and consumer.
 
-I previously co-founded a startup and now build and open-source AI products, with a growing interest in developer tooling and human-in-the-loop systems.
+I like building, talking to users, and shipping fast. Most of my work ends up somewhere between product design and engineering.
 
-Currently a Product Management Intern at Phia, working on product strategy, feedback loops, and applied AI features in production.
-
----
-
-## 🚀 Shipped Projects
-
-- **[ContractGPT](https://github.com/AaravKhanduja/ContractGPT)**  
-  Turns vague freelance asks into structured, reviewable contracts with explicit assumptions and constraints.  
-  *Next.js · GPT-4 · Open-source · Live*
-
-- **[ListingIQ](https://github.com/AaravKhanduja/ListingIQ)**  
-  An AI analysis tool for real-estate listings that surfaces risks, ambiguities, and follow-up questions to support better decision-making.  
-  *Next.js · FastAPI · GPT-4 · Open-source · Live*
+Junior at NYU Tandon (Business & Technology Management). Transferred from UC San Diego.
 
 ---
 
-## 🧠 Experience
+## What I've been working on
 
-- **Phia (Product Management Intern)**  
-  Working on product discovery, feedback systems, and applied AI features, with a focus on improving user understanding, trust, and iteration speed.
+**At Phia** — working on growth, personalization, and activation. Shipping applied AI features and improving feedback loops in production.
 
-- **ProperlyAI (Co-founder)**  
-  Built AI-powered summaries for realtors using  
-  *TypeScript (React) · Python (Django) · GPT-4*  
-  Led product direction, engineering, and early customer discovery.
+**At Penseum** — identified onboarding gaps via session replays, reduced time to activation by 30% in 2 weeks, and uncovered top-of-funnel failures that boosted signups +15% WoW.
 
-- **Penseum (Product / Analytics)**  
-  Analyzed user journeys, activation funnels, and engagement metrics to inform product decisions.
-
-- **UCSD Student Entrepreneur Network**  
-  Built a rewards system, scaled AWS infrastructure, and supported community growth initiatives.
+**At ProperlyAI (Co-founder)** — interviewed 70+ real estate agents, built an AI CRM MVP (Next.js/Django), onboarded 5+ beta clients, and led a team of 5 through 3 pivots. 2nd place at Techstars USC Pitch, selected for NYU Sprint Accelerator.
 
 ---
 
-## 🔗 Connect
+## Shipped Projects
+
+- **[ContractGPT](https://github.com/AaravKhanduja/ContractGPT)** — turns vague freelance asks into structured, reviewable contracts with explicit assumptions and constraints. *Next.js, GPT-4*
+
+- **[ListingIQ](https://github.com/AaravKhanduja/ListingIQ)** — AI analysis tool for real estate listings that surfaces risks, ambiguities, and follow-up questions. *Next.js, FastAPI, GPT-4*
+
+## Open-Source Contributions
+
+- **[text0](https://github.com/text0-app/text0)** — winner, Next.js Global Hackathon 2025. Implemented local Ollama inference support with runtime provider switching. (+298/-116 LOC, 14 files)
+
+- **[CineScreen](https://github.com/CineScreen/CineScreen)** (22+ stars) — built keyboard shortcut system for the video editor with input-focus guards and modifier-key conflict handling. (+126 LOC)
+
+---
+
+## Stack
+
+Python, FastAPI, JavaScript, TypeScript, React, Next.js, PostgreSQL, Mixpanel, Figma
+
+---
+
+## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/aarav-khanduja-0467191b0/)
 - [Website](https://aaravkhanduja.com)
-- 📫 hi@aaravkhanduja.com
+- hi@aaravkhanduja.com
