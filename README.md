@@ -2,7 +2,7 @@
 
 PM Intern at **Phia** (Series A) — previously built products across edtech, real estate tech, and consumer. Most of my work ends up somewhere between product design and engineering.
 
-Junior at NYU Tandon (Business & Technology Management).
+Junior at NYU Tandon School of Engineering.
 
 ---
 
