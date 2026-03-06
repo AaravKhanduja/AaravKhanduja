@@ -1,10 +1,8 @@
 # Hey, I'm Aarav
 
-PM Intern at **Phia** (Series A) — previously co-founded a real estate AI startup and built products across edtech, developer tooling, and consumer.
+PM Intern at **Phia** (Series A) — previously built products across edtech, real estate tech, and consumer. Most of my work ends up somewhere between product design and engineering.
 
-I like building, talking to users, and shipping fast. Most of my work ends up somewhere between product design and engineering.
-
-Junior at NYU Tandon (Business & Technology Management). Transferred from UC San Diego.
+Junior at NYU Tandon (Business & Technology Management).
 
 ---
 
