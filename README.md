@@ -22,7 +22,7 @@ Junior at NYU Tandon School of Engineering.
 
 ## Open-Source Contributions
 
-- **[text0](https://github.com/crafter-station/text0)** — winner, Next.js Global Hackathon 2025. Implemented local Ollama inference support with runtime provider switching. (+298/-116 LOC, 14 files)
+- **[text0](https://github.com/crafter-station/text0)** — winning project at Next.js Global Hackathon 2025. Implemented local Ollama inference support with runtime provider switching. (+298/-116 LOC, 14 files)
 
 - **[CineScreen](https://github.com/jasonzh0/CineScreen)** (22+ stars) — built keyboard shortcut system for the video editor with input-focus guards and modifier-key conflict handling. (+126 LOC)
 
