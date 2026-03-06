@@ -12,8 +12,6 @@ Junior at NYU Tandon School of Engineering.
 
 **At Penseum** — identified onboarding gaps via session replays, reduced time to activation by 30% in 2 weeks, and uncovered top-of-funnel failures that boosted signups +15% WoW.
 
-**At ProperlyAI (Co-founder)** — interviewed 70+ real estate agents, built an AI CRM MVP (Next.js/Django), onboarded 5+ beta clients, and led a team of 5 through 3 pivots. 2nd place at Techstars USC Pitch, selected for NYU Sprint Accelerator.
-
 ---
 
 ## Shipped Projects
